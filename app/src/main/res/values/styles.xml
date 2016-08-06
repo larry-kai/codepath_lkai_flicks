@@ -8,4 +8,14 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="MovieImageLand">
+        <item name="android:layout_width">300dp</item>
+        <item name="android:layout_height">160dp</item>
+    </style>
+
+    <style name="MovieImagePort">
+        <item name="android:layout_width">170dp</item>
+        <item name="android:layout_height">200dp</item>
+    </style>
+
 </resources>
